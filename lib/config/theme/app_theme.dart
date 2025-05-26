@@ -36,9 +36,9 @@ class AppTheme {
     colorSchemeSeed: colorList[selectedColor],
     appBarTheme: AppBarTheme(
       centerTitle: false,
-      backgroundColor: colorList[selectedColor],
-      titleTextStyle: TextStyle(color: Colors.white, fontSize: 20),
-      iconTheme: IconThemeData(color: Colors.white),
+      // backgroundColor: colorList[selectedColor],
+      // titleTextStyle: TextStyle(color: Colors.white, fontSize: 20),
+      // iconTheme: IconThemeData(color: Colors.white),
     ),
   );
 }
