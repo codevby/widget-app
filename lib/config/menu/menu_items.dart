@@ -33,4 +33,10 @@ const appMenuItems = <MenuItems>[
     link: '/progress',
     icon: Icons.refresh_rounded,
   ),
+  MenuItems(
+    title: 'Snackbars',
+    subtitle: 'Snackbars in Flutter',
+    link: '/snackbars',
+    icon: Icons.info_outline_rounded,
+  ),
 ];
